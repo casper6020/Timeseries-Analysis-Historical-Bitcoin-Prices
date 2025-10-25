@@ -1,8 +1,11 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/18492/18492156.png" width=20/> Timeseries-Analysis-Historical-Bitcoin-Prices
 In this repository, we conducted time series analysis on historical bitcoin prices and applied ARIMA model to predict future prices.
-<div style="text-align: center;">
-    <img src="https://github.com/casper6020/Income-level-prediction-Adult-Dataset/blob/main/Comparison_Figure.png" width: 450px; height: 300px/>
-</div>
+
+<p align="center">
+    <img src="Exponential Moving Average.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
+    <img src="time_series_forecast.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
+</p>
+<br clear="all" />
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/3176/3176324.png" width="20" /> Objectives
 - Calculate Simple, Cumulative and Exponential Moving Averages.
