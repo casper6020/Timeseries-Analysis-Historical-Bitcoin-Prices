@@ -27,4 +27,5 @@ In this repository, we conducted time series analysis on historical bitcoin pric
 ## <img src="https://cdn-icons-png.flaticon.com/128/9623/9623606.png" width=20 /> Insights
 - We learned that the historical bitcoin prices are non-stationary.
 - From 2017, the bitcoin prices started to rise, and the price rose significantly until January 2018, with seasonal decrease.
+- This increase in bitcoin prices at the end of 2017 can be attributed to excessive media coverage, limited supply, fear of missing out and overall growth in crypto industry.
 - Since January 2018, the price started to fall, with seasonal increase.
