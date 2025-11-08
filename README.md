@@ -1,5 +1,5 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/18492/18492156.png" width=20/> Timeseries-Analysis-Historical-Bitcoin-Prices
-In this repository, we conducted time series analysis on historical bitcoin prices and applied ARIMA model to predict future prices.
+*This project explores historical Bitcoin price patterns through time series analysis and forecasting techniques. The analysis reveals key insights into Bitcoin's price behavior, including its non-stationary nature and the dramatic bull run of late 2017.*
 
 <p align="center">
     <img src="Exponential Moving Average.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
