@@ -6,12 +6,22 @@ The highly volatile nature of cryptocurrency market makes it an interesting envi
   - __SMA__ -> What's the average of the recent window?
   - __CMA__ -> What's the average of everything so far?
   - __EMA__ -> What's the recent trend, but with more importance on the newest data?
+
+<p align="center">
+    <img src="simple_moving_average.png" width="33%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
+    <img src="CMA.png" width="33%" alt="Image 1 Description" style="float: center; margin-right: 2%;">
+    <img src="Exponential Moving Average.png" width="33%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
+</p>
+<br clear="all" />
+
 - __Stationarity__ Check
   - We check for stationarity because non-stationary data is unreliable for prediction.  
 - __Differencing__ Method
   - When time-series data is non-stationary, we need to apply differencing to create stability for prediction. 
 - __Forecasting__ using __ARIMA__ Model
     - ARIMA (Autoregressive Integrated Moving Average)
+
+
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/18289/18289400.png" width=20 /> Dataset
 - __Title__:Historical Bitcoin Prices
