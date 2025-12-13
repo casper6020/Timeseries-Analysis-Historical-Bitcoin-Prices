@@ -47,9 +47,3 @@ The highly volatile nature of cryptocurrency market makes it an interesting envi
 - From 2017, the bitcoin prices started to rise, and the price rose significantly until January 2018, with seasonal decrease.
 - This increase in bitcoin prices at the end of 2017 can be attributed to excessive media coverage, limited supply, fear of missing out and overall growth in crypto industry.
 - Since January 2018, the price started to fall, with seasonal increase.
-
-<p align="center">
-    <img src="Exponential Moving Average.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
-    <img src="time_series_forecast.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
-</p>
-<br clear="all" />
