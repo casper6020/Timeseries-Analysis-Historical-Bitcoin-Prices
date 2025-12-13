@@ -17,11 +17,20 @@ The highly volatile nature of cryptocurrency market makes it an interesting envi
 - __Stationarity__ Check
   - We check for stationarity because non-stationary data is unreliable for prediction.  
 - __Differencing__ Method
-  - When time-series data is non-stationary, we need to apply differencing to create stability for prediction. 
+  - When time-series data is non-stationary, we need to apply differencing to create stability for prediction.
+
+<p align="center">
+    <img src="differencing.png" width="50%" alt="Image 1 Description" style="float: center; margin-right: 2%;">
+</p>
+<br clear="all" />
+
 - __Forecasting__ using __ARIMA__ Model
     - ARIMA (Autoregressive Integrated Moving Average)
 
-
+<p align="center">
+    <img src="time_series_forecast.png" width="50%" alt="Image 1 Description" style="float: center; margin-right: 2%;">
+</p>
+<br clear="all" />
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/18289/18289400.png" width=20 /> Dataset
 - __Title__:Historical Bitcoin Prices
